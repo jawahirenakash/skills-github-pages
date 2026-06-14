@@ -36,5 +36,5 @@ I am a Senior iOS Developer with 10 years of experience building scalable mobile
 
 ### Connect With Me
 
-* GitHub: https://github.com/YOUR_USERNAME
-* LinkedIn: https://linkedin.com/in/YOUR_PROFILE
+* GitHub: https://github.com/njawahire
+* LinkedIn: https://linkedin.com/in/jawahirenakash
